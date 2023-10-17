@@ -3,4 +3,4 @@
 - N’in r’li kombinasyonu C(n,r) şeklinde gösterilir.
 
 Kombinasyon formülü
-C(n,r) = n! / (r! * (n-r)!)
+C(n,r) = n! / (r! * (n--r)!)
