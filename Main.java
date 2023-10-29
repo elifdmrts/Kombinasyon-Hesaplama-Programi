@@ -15,7 +15,7 @@ public class Main {
         int totalfark=1;
         fark=(n-r);
         for(i=1; i<=n; i++ ){
-            totaln=totaln*i; // n!
+            totaln=totaln*i;    // n!
         }
         for(k=1; k<=r; k++ ){
             totalr=totalr*k;  //r!
